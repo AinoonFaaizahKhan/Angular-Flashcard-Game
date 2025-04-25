@@ -106,3 +106,4 @@ export class FlashService {
     return flash;
   }
 }
+

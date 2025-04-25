@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "flashcard-game"
+  "defaultProject": "flashcard-game",
+  "cli": {
+    "analytics": "ff6e248a-6b7c-44e8-875b-5c1e958f851c"
+  }
 }
